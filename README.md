@@ -10,28 +10,35 @@ MultiThread/ — An enhanced server-client setup that handles multiple client re
 
 🚀 How to Run
 
-Clone the repository:
-
-## git clone https://github.com/RATAN23/Java---Multithreading.git
-
+## Clone the repository:
+```
+git clone https://github.com/RATAN23/Java---Multithreading.git
+```
+```
 cd Java---Multithreading
+```
 
-Navigate to the desired folder:
+### Navigate to the desired folder:
 
 For Single-threaded example:
+```
 cd SingleThread
-
+```
 For Multi-threaded example
+```
 cd MultiThread
-
-Run the server:
+```
+### Run the server:
 Open a terminal and execute:
+```
 java Server
+```
 
 Run the client(s):
 In a new terminal window, execute:
+```
 java Client
-
+```
 
 ✍️ Description
 This project is built for learning purposes to visualize how multithreading works in Java.
