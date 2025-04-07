@@ -1,16 +1,16 @@
-Java Multithreading — Single-threaded vs Multi-threaded Web Server 🧵🚀
+# Java Multithreading — Single-threaded vs Multi-threaded Web Server 🧵🚀
 
 This repository is a simple demonstration of Multithreading in Java, designed to help understand the difference between single-threaded and multi-threaded server applications.
 
 It contains two folders:
 
-SingleThread/ — A basic server-client setup running on a single thread.
+### SingleThread/ — A basic server-client setup running on a single thread.
 
-MultiThread/ — An enhanced server-client setup that handles multiple client requests simultaneously using multithreading.
+### MultiThread/ — An enhanced server-client setup that handles multiple client requests simultaneously using multithreading.
 
-🚀 How to Run
+## 🚀 How to Run
 
-## Clone the repository:
+### Clone the repository:
 ```
 git clone https://github.com/RATAN23/Java---Multithreading.git
 ```
