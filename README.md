@@ -8,21 +8,24 @@ SingleThread/ — A basic server-client setup running on a single thread.
 
 MultiThread/ — An enhanced server-client setup that handles multiple client requests simultaneously using multithreading.
 
-📂 Folder Structure
+## 📂 Folder Structure
 
-├── SingleThread
+Java---Multithreading/
+├── SingleThread/
 │   ├── Server.java
 │   ├── Client.java
-│   └── Compiled class files
-├── MultiThread
+│   └── (Compiled class files)
+├── MultiThread/
 │   ├── Server.java
 │   ├── Client.java
-│   └── Compiled class files
+│   └── (Compiled class files)
+└── README.md
 
 🚀 How to Run
 
 Clone the repository:
-git clone https://github.com/RATAN23/Java---Multithreading.git
+
+## git clone https://github.com/RATAN23/Java---Multithreading.git
 
 cd Java---Multithreading
 
